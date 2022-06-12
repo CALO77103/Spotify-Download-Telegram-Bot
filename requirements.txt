@@ -2,3 +2,5 @@ savify
 ffmpy
 python-telegram-bot
 requests
+ffmpeg
+
